@@ -225,6 +225,9 @@ a {
   margin-top: 2rem;
   background-color: #2e2e2c; }
 
+.site-footer a {
+  color: #f3df49; }
+
 .site-footer-owner {
   display: block;
   font-weight: bold;
