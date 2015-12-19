@@ -57,6 +57,10 @@ a {
   color: #2e2e2c;
   text-align: center;
   background-color: #f3df49;
+  font-family: Futura, "Trebuchet MS", Arial, sans-serif; 
+  letter-spacing: -1px;
+  line-height: 1.1em;
+  font-weight: 700;
 }
 
 @media screen and (min-width: 64em) {
