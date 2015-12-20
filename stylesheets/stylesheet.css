@@ -75,7 +75,7 @@ a {
     padding: 3rem 1rem; } }
 
 .project-name {
-  margin-top: 0;
+  margin-top: 1rem;
   margin-bottom: 0.1rem; }
 
 @media screen and (min-width: 64em) {
